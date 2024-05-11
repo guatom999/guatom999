@@ -16,6 +16,9 @@
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis&theme=light)](https://skillicons.dev)
 
+### Codewars:
+![Codewars](https://github.r2v.ch/codewars?user=guatom999&stroke=%23BB432C)
+
 ### Stats:
 
 <div style="display: flex;">
