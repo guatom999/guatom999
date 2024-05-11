@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,&theme=light)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,expressfigma,githubactions,docker,kafka,nodejs,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,figma,githubactions,docker,kafka,nodejs,postman&theme=light)](https://skillicons.dev)
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis&theme=light)](https://skillicons.dev)
