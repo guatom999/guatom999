@@ -2,8 +2,7 @@
 
 
 <pre>
-- 🤔 Hi I'm Boss
-- 🏫 I'm graduated computer science at King Mongkut’s University of Technology Thonburi (KMUTT).
+- 🤔 Hi I'm BadzBoss
 </pre>
 
 ### Languages:
