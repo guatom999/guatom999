@@ -3,6 +3,7 @@
 
 <pre>
 - 🤔 Hi I'm BadzBoss
+     unemployed wating for some opportunity
 </pre>
 
 ### Languages:
