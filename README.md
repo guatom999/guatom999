@@ -6,9 +6,9 @@
      unemployed wating for some opportunity
 </pre>
 
-### Languages:
-
 ![](https://komarev.com/ghpvc/?username=guatom999)
+
+### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,&theme=light)](https://skillicons.dev)
 
