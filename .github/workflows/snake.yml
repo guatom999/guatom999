@@ -2,8 +2,7 @@ name: Generate contribution snake
 
 on:
   schedule:
-    # Every day at 07:17 in Thailand (00:17 UTC).
-    - cron: "17 0 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,10 +12,6 @@ on:
 
 permissions:
   contents: write
-
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: false
 
 jobs:
   generate:
@@ -36,7 +31,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
-          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
