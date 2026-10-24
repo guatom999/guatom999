@@ -6,8 +6,6 @@
      unemployed wating for some opportunity
 </pre>
 
-![](https://komarev.com/ghpvc/?username=guatom999)
-
 <div>
      <picture>
        <source
