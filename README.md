@@ -42,11 +42,3 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guatom999&layout=compact&langs_count=10&theme=gruvbox"/>
      <img src="https://github-readme-stats.vercel.app/api?username=guatom999&show_icons=true&theme=gruvbox"/>
 </div>
-
-### Contribution snake:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guatom999/guatom999/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guatom999/guatom999/output/github-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/guatom999/guatom999/output/github-snake.svg" />
-</picture>
