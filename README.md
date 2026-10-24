@@ -8,6 +8,21 @@
 
 ![](https://komarev.com/ghpvc/?username=guatom999)
 
+<div>
+     <picture>
+       <source
+         media="(prefers-color-scheme: dark)"
+         srcset="https://raw.githubusercontent.com/guatom999/guatom999/output/github-snake-dark.svg"
+       />
+       <img
+         alt="GitHub contribution snake"
+         src="https://raw.githubusercontent.com/guatom999/guatom999/output/github-snake.svg"
+       />
+     </picture>
+</div>
+ 
+
+
 ### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,&theme=light)](https://skillicons.dev)
